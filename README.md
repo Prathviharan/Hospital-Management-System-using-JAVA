@@ -1,8 +1,4 @@
-<h1 align="center" id="title">Swastik Santorium</h1>
-
-<p align="center"><img src="https://socialify.git.ci/Gaurav560/Project-Swastik/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
-
-<p id="description">The Project is based on Hospital Mangement System Domain .It is a web application based on java stack technologies.It is divided into three modules: Admin with log-in page, Doctor with log-in page, and User with Login page. I am attaching a demo video so you can understand my work.
+<h1 align="center" id="title">Hospital Management System using JAVA </h1>
                              
 The functionalities of each module are:
 Admin:    
@@ -36,20 +32,7 @@ User:
 
 
 
-<h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Gaurav560/Project-Swastik/blob/master/Hospital_Management_System/src/main/webapp/img/doc1.jpg" alt="project-screenshot" width="1200" height="500/">
-<img src="https://github.com/Gaurav560/Project-Swastik/blob/master/Screenshots/Screenshot%20(536).png" alt="project-screenshot" width="1200" height="500/">
-
-<img src="https://github.com/Gaurav560/Project-Swastik/blob/master/Screenshots/Screenshot%20(524).png" alt="project-screenshot" width="1200" height="500/">
-
-<img src="https://github.com/Gaurav560/Project-Swastik/blob/master/Screenshots/Screenshot%20(525).png" alt="project-screenshot" width="1200" height="500/">
-
-<img src="https://github.com/Gaurav560/Project-Swastik/blob/master/Screenshots/Screenshot%20(527).png" alt="project-screenshot" width="1200" height="500/">
-
-<img src="https://github.com/Gaurav560/Project-Swastik/blob/master/Screenshots/Screenshot%20(530).png" alt="project-screenshot" width="1200" height="500/">
-
-<img src="https://github.com/Gaurav560/Project-Swastik/blob/master/Screenshots/Screenshot%20(534).png" alt="project-screenshot" width="1200" height="500/">
 
 
 
@@ -95,7 +78,3 @@ Technologies used in the project:
 *   CSS3
 *   FONTAWESOME6
 *   TOMCAT9
-
-<h2>🛡️ License:</h2>
-
-This project is licensed under the @JavaExpertGaurav
